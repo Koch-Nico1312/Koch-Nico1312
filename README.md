@@ -4,7 +4,7 @@
 
 ## 🚀 Aktuell
 
-- 🤖 Entwicklung von **Mika**, meinem persönlichen KI-Assistenten
+- 🤖 Entwicklung von **Mica**, meinem persönlichen KI-Assistenten
 - 🏠 Experimente mit Proxmox, Docker und lokalen LLMs
 - 📚 Ständig neue Technologien lernen
 
